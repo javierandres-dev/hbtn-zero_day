@@ -25,6 +25,8 @@ by _Julien Barbier_
 * How to push code
 
 ## Resources
+* [The Framework](https://intranet.hbtn.io/concepts/75)
+* [History of Holberton](https://intranet.hbtn.io/concepts/119)
 * [Zero day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 * [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
 * [Using Vagrant on your personal computer](https://intranet.hbtn.io/concepts/81)
