@@ -1,7 +1,7 @@
 # 0x00. Vagrant
 Foundations - 0-Day ― 0-Day
 
-###### **:copyright: Holberton School**
+###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
 by _Julien Barbier_
 
 ## Learning Objectives
