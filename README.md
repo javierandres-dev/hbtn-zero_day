@@ -1,6 +1,6 @@
 # Foundations
 ## 0-Day - 0-Day
-**:copyright: [Holberton School](https://www.holbertonschool.com/)**
+###### **:copyright: [Holberton School](https://www.holbertonschool.com/)**
 ## holbertonschool-zero_day
 * [x] 210 0x00. Vagrant
 * [x] 206 0x01. Emacs
