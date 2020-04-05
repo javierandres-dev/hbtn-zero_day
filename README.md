@@ -4,6 +4,10 @@
 ###### :copyright:
 **[Holberton School](https://www.holbertonschool.com/)**
 
+###### Global Objective
+At the end of this project, you are expected to be able to...
+- ...[explain to anyone](https://fs.blog/2012/04/feynman-technique/)
+
 ## holbertonschool-zero_day
 * [x] 210 0x00. Vagrant
 * [x] 206 0x01. Emacs
