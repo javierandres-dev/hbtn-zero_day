@@ -10,8 +10,6 @@
 
 ## Resources
 ###### Read or watch:
-* [The Framework](https://intranet.hbtn.io/concepts/75)
-* [History of Holberton](https://intranet.hbtn.io/concepts/119)
 * [Zero day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 * [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
 * [Using Vagrant on your personal computer](https://intranet.hbtn.io/concepts/81)
@@ -65,13 +63,15 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ###### General
 * A ```README.md``` file at the root of the ```holbertonschool-zero_day``` repo, containing a description of the repository
 * A ```README.md``` file, at the root of the folder of this project (i.e. ```0x00-vagrant```), describing what this project is about
-* Install git
+
+###### Install git
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install git
 ```
-* Basic usage
+
+###### Basic usage
 ```
 $ git clone <repo>
 $ touch test
@@ -83,8 +83,11 @@ $ git push origin master
 ## Tasks
 | Task | Description |
 | --- | --- |
-| [x] 0. Create and setup your Git and Github account | Your first file in your first repository of the first task of your first Holberton School project.
+| 0. Create and setup your Git and Github account | Your first file in your first repository of the first task of your first Holberton School project.
 | 1. Hello Ubuntu | Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory.
+###### Completed
+ [x] 0.
+ [x] 1.
 
 ## Developer
 Javier Andrés Garzón Patarroyo
