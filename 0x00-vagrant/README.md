@@ -83,11 +83,8 @@ $ git push origin master
 ## Tasks
 | Task | Description |
 | --- | --- |
-| 0. Create and setup your Git and Github account | Your first file in your first repository of the first task of your first Holberton School project.
-| 1. Hello Ubuntu | Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory.
-###### Completed
- [x] 0.
- [x] 1.
+| - [x] 0. Create and setup your Git and Github account | Your first file in your first repository of the first task of your first Holberton School project.
+| - [x] 1. Hello Ubuntu | Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory.
 
 ## Developer
 Javier Andrés Garzón Patarroyo
