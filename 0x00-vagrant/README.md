@@ -1,8 +1,7 @@
 # 0x00. Vagrant
 :open_file_folder: Foundations - 0-Day ― 0-Day
-
-:bust_in_silhouette: by Julien Barbier, co-founder at Holberton School
 ###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
+:bust_in_silhouette: by Julien Barbier, co-founder at Holberton School
 
 ###### For this project, students are expected to look at these concepts:
 * [The Framework](https://intranet.hbtn.io/concepts/75)
@@ -83,8 +82,8 @@ $ git push origin master
 ## Tasks
 | Task | Description |
 | --- | --- |
-| 0. Create and setup your Git and Github account | Your first file in your first repository of the first task of your first Holberton School project.
-| 1. Hello Ubuntu | Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory.
+| 0. Create and setup your Git and Github account | Your first file in your first repository of the first task of your first Holberton School project. |
+| 1. Hello Ubuntu | Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory. |
 ###### Completed
 - [x] 0.
 - [x] 1.

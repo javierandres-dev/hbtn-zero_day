@@ -1,6 +1,6 @@
 # Foundations
-## 0-Day - 0-Day
 ###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
+## 0-Day - 0-Day
 
 ## Projects
 :open_file_folder:
