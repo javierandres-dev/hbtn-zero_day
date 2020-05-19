@@ -1,13 +1,13 @@
 # 0x00. Vagrant
-:open_file_folder: Foundations - 0-Day ― 0-Day  
-:bust_in_silhouette: by Julien Barbier, co-founder at Holberton School  
-**:copyright: [Holberton School](https://www.holbertonschool.com/)**
+:open_file_folder:	Foundations - 0-Day ― 0-Day  
+:bust_in_silhouette:	by Julien Barbier, co-founder at Holberton School  
+:copyright:		**[Holberton School](https://www.holbertonschool.com/)**
 
+## Resources
 ###### For this project, students are expected to look at these concepts:
 * [The Framework](https://intranet.hbtn.io/concepts/75)
 * [History of Holberton](https://intranet.hbtn.io/concepts/119)
 
-## Resources
 ###### Read or watch:
 * [Zero day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 * [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
@@ -84,7 +84,7 @@ $ git push origin master
 * [x] 1. Hello Ubuntu
 
 ## Developer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)  
-:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
-:man_technologist: :books: :computer: :globe_with_meridians:
+**Javier Andrés Garzón Patarroyo**  
+:octocat:	[GitHub](https://github.com/javierandresgp/)  
+:link:		[Linkedin](https://www.linkedin.com/in/javierandresgp/)  
+:man_technologist:  :books:  :computer:  :globe_with_meridians:
