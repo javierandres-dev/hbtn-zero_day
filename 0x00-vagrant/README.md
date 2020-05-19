@@ -1,13 +1,12 @@
 # 0x00. Vagrant
-:open_file_folder:	Foundations - 0-Day ― 0-Day  
-:bust_in_silhouette:	by Julien Barbier, co-founder at Holberton School  
-:copyright:		**[Holberton School](https://www.holbertonschool.com/)**
+:open_file_folder: Foundations - 0-Day ― 0-Day  
+:bust_in_silhouette: by Julien Barbier, co-founder at Holberton School  
+:copyright: **[Holberton School](https://www.holbertonschool.com/)**
 
 ## Resources
 ###### For this project, students are expected to look at these concepts:
 * [The Framework](https://intranet.hbtn.io/concepts/75)
 * [History of Holberton](https://intranet.hbtn.io/concepts/119)
-
 ###### Read or watch:
 * [Zero day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 * [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
@@ -62,14 +61,12 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ###### General
 * A ```README.md``` file at the root of the ```holbertonschool-zero_day``` repo, containing a description of the repository
 * A ```README.md``` file, at the root of the folder of this project (i.e. ```0x00-vagrant```), describing what this project is about
-
 ###### Install git
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install git
 ```
-
 ###### Basic usage
 ```
 $ git clone <repo>
@@ -84,7 +81,7 @@ $ git push origin master
 * [x] 1. Hello Ubuntu
 
 ## Developer
-**Javier Andrés Garzón Patarroyo**  
-:octocat:	[GitHub](https://github.com/javierandresgp/)  
-:link:		[Linkedin](https://www.linkedin.com/in/javierandresgp/)  
-:man_technologist:  :books:  :computer:  :globe_with_meridians:
+Javier Andrés Garzón Patarroyo  
+:octocat: [GitHub](https://github.com/javierandresgp/)  
+:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
+:man_technologist: :books: :computer: :globe_with_meridians:
