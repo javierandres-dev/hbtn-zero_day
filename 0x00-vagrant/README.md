@@ -84,8 +84,7 @@ $ git push origin master
 * [x] 1. Hello Ubuntu
 
 ## Developer
-Javier Andrés Garzón Patarroyo
+Javier Andrés Garzón Patarroyo  
 :octocat: [GitHub](https://github.com/javierandresgp/)  
-:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)
-
+:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
 :man_technologist: :books: :computer: :globe_with_meridians:
