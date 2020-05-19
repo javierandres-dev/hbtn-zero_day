@@ -1,6 +1,6 @@
 # 0x00. Vagrant
-:open_file_folder: Foundations - 0-Day ― 0-Day
-:bust_in_silhouette: by Julien Barbier, co-founder at Holberton School
+:open_file_folder: Foundations - 0-Day ― 0-Day  
+:bust_in_silhouette: by Julien Barbier, co-founder at Holberton School  
 **:copyright: [Holberton School](https://www.holbertonschool.com/)**
 
 ###### For this project, students are expected to look at these concepts:
