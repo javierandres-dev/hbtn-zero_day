@@ -33,6 +33,23 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * How to work as collaborators on a project
 * Which files should and which files should not appear in your repo
 
+## Requirements
+Install git
+```
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install git
+```
+
+Basic usage
+```
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git commit -m "Initial commit"
+$ git push origin master
+```
+
 ## Tasks
 * [x] 0. Repo-session
 * [x] 1. Coding fury road
