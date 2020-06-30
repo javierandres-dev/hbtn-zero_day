@@ -1,10 +1,15 @@
 # 0x02. vi
-Foundations - 0-Day ― 0-Day
+:open_file_folder: Foundations - 0-Day ― 0-Day  
+:bust_in_silhouette: by Julien Barbier, co-founder at Holberton School  
+:copyright: **[Holberton School](https://www.holbertonschool.com/)**
 
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-by _Julien Barbier_
+## Resources
+* [The Framework](https://intranet.hbtn.io/concepts/75)
+* [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 
 ## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/2012/04/feynman-technique/), without the help of Google:
+###### General
 * What is vi
 * Who is Bill Joy
 * How to start and exit vi
@@ -14,10 +19,6 @@ by _Julien Barbier_
 * How to search forward and backward
 * How to undo
 * How to quit vi
-
-## Resources
-* [The Framework](https://intranet.hbtn.io/concepts/75)
-* [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 
 ## Tasks
 * [x] 0. Inserting
@@ -31,7 +32,8 @@ by _Julien Barbier_
 * [x] 8. Delete current and previous line
 
 ## Developer
-Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
-
+Javier Andrés Garzón Patarroyo  
+:octocat: [GitHub](https://github.com/javierandresgp/)  
+:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
+:link: [Twitter](https://twitter.com/javierandresgp0)  
 :man_technologist: :books: :computer: :globe_with_meridians:

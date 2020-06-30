@@ -1,10 +1,22 @@
 # 0x03. Git
-Foundations - 0-Day ― 0-Day
+:open_file_folder: Foundations - 0-Day ― 0-Day  
+:bust_in_silhouette: by Guillaume, CTO at Holberton school  
+:copyright: **[Holberton School](https://www.holbertonschool.com/)**
 
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-by _Guillaume_
+## Resources
+* [The Framework](https://intranet.hbtn.io/concepts/75)
+* [Source code management](https://intranet.hbtn.io/concepts/22)
+* [Git and Github cheat sheet](https://intranet.hbtn.io/concepts/57)
+* [Resources to learn Git](https://try.github.io/)
+* [About READMEs](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes)
+* [How to write a Git commit message](https://chris.beams.io/posts/git-commit/#seven-rules)
+* [Elaine Yeung (Cohort 2, SF)‘ s Guidelines for the Github rookie - .gitignore](https://medium.com/@elaine.yeung/guidelines-for-the-github-rookie-c24e9ec0c671)
+* [Learning branching](https://learngitbranching.js.org/)
+* [Effective pull requests and other good practices for teams using Github](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 
 ## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/2012/04/feynman-technique/), without the help of Google:
+###### General
 * What is source code management
 * What is Git
 * What is GitHub
@@ -21,17 +33,6 @@ by _Guillaume_
 * How to work as collaborators on a project
 * Which files should and which files should not appear in your repo
 
-## Resources
-* [The Framework](https://intranet.hbtn.io/concepts/75)
-* [Source code management](https://intranet.hbtn.io/concepts/22)
-* [Git and Github cheat sheet](https://intranet.hbtn.io/concepts/57)
-* [Resources to learn Git](https://try.github.io/)
-* [About READMEs](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes)
-* [How to write a Git commit message](https://chris.beams.io/posts/git-commit/#seven-rules)
-* [Elaine Yeung (Cohort 2, SF)‘ s Guidelines for the Github rookie - .gitignore](https://medium.com/@elaine.yeung/guidelines-for-the-github-rookie-c24e9ec0c671)
-* [Learning branching](https://learngitbranching.js.org/)
-* [Effective pull requests and other good practices for teams using Github](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
-
 ## Tasks
 * [x] 0. Repo-session
 * [x] 1. Coding fury road
@@ -41,7 +42,8 @@ by _Guillaume_
 * [x] 5. Never push too much
 
 ## Developer
-Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
-
+Javier Andrés Garzón Patarroyo  
+:octocat: [GitHub](https://github.com/javierandresgp/)  
+:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
+:link: [Twitter](https://twitter.com/javierandresgp0)  
 :man_technologist: :books: :computer: :globe_with_meridians:

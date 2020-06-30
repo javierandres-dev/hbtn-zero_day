@@ -1,7 +1,7 @@
 # 0x01. Emacs
-:open_file_folder: Foundations - 0-Day ― 0-Day
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-:bust_in_silhouette: by Julien Barbier, co-founder at Holberton School
+:open_file_folder: Foundations - 0-Day ― 0-Day  
+:bust_in_silhouette: by Julien Barbier, co-founder at Holberton School  
+:copyright: **[Holberton School](https://www.holbertonschool.com/)**
 
 ###### For this project, students are expected to look at these concepts:
 * [The Framework](https://intranet.hbtn.io/concepts/75)
@@ -26,7 +26,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * How to quit Emacs
 
 ## Requirements
-###### Install emacs
+Install emacs
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
@@ -34,31 +34,19 @@ $ sudo apt-get install emacs
 ```
 
 ## Tasks
-| Task | Description |
-| --- | --- |
-| 0. Opening | What is the command to open a file from within Emacs? |
-| 1. Saving | What is the command to save a file? |
-| 2. Cutting | What is the command to cut an entire line? |
-| 3. Pasting | What is the command to paste? |
-| 4. Searching | What is the command to search forward? |
-| 5. Undoing | What is the command to undo? |
-| 6. Quitting | What is the command to quit Emacs? |
-| 7. Tetris | What is the command to play Tetris inside Emacs? |
-| 8. Doctor | What is the command to talk to your doctor? |
-###### Completed
-- [x] 0.
-- [x] 1.
-- [x] 2.
-- [x] 3.
-- [x] 4.
-- [x] 5.
-- [x] 6.
-- [x] 7.
-- [x] 8.
+* [x] 0. Opening
+* [x] 1. Saving
+* [x] 2. Cutting
+* [x] 3. Pasting
+* [x] 4. Searching
+* [x] 5. Undoing
+* [x] 6. Quitting
+* [x] 7. Tetris
+* [x] 8. Doctor
 
 ## Developer
-Javier Andrés Garzón Patarroyo
-- :octocat: [GitHub](https://github.com/javierandresgp/)
-- :link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)
-
+Javier Andrés Garzón Patarroyo  
+:octocat: [GitHub](https://github.com/javierandresgp/)  
+:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
+:link: [Twitter](https://twitter.com/javierandresgp0)  
 :man_technologist: :books: :computer: :globe_with_meridians:

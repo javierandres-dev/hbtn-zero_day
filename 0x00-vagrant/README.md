@@ -61,13 +61,15 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ###### General
 * A ```README.md``` file at the root of the ```holbertonschool-zero_day``` repo, containing a description of the repository
 * A ```README.md``` file, at the root of the folder of this project (i.e. ```0x00-vagrant```), describing what this project is about
-###### Install git
+
+Install git
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install git
 ```
-###### Basic usage
+
+Basic usage
 ```
 $ git clone <repo>
 $ touch test
@@ -84,4 +86,5 @@ $ git push origin master
 Javier Andrés Garzón Patarroyo  
 :octocat: [GitHub](https://github.com/javierandresgp/)  
 :link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
+:link: [Twitter](https://twitter.com/javierandresgp0)  
 :man_technologist: :books: :computer: :globe_with_meridians:
